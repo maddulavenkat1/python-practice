@@ -14,7 +14,7 @@ class b(a):
     def method3(self):
         print('method3 inherited in sublclass b ')
 
-
+############
 obj1 = b()
 obj1.method1()
 obj1.method2()
